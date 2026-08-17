@@ -1,0 +1,15 @@
+ZONE Premium landing page
+
+Files:
+- index.html
+- zone-logo.jpg
+
+The page is a responsive static website. All buttons open the supplied WhatsApp,
+phone, Instagram, Facebook and TikTok destinations.
+
+Free hosting option:
+1. Create a GitHub repository.
+2. Upload index.html and zone-logo.jpg.
+3. Open Settings -> Pages.
+4. Choose the main branch as the publishing source.
+5. GitHub Pages will publish the site at a github.io URL.
